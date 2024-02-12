@@ -63,3 +63,4 @@ F1: 0.6271967577920019 <br>
 - Caso optasse por substituir as Random Forests por outro modelo, sugeriria utilizar um modelo de rede neural, o que já fiz em pesquisas passadas, mas não o fiz agora em razão do tempo necessário para estruturar o número, tamanho e tipo das camadas <br># fiesc
 # fiesc
 # fiesc
+# fiesc
