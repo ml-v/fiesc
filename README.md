@@ -1,12 +1,6 @@
 <h1 align="center"> Processo Seletivo - Pesquisador I </h1>
 <h2 align="center"> Mateus Pinto da Luz Ligocki Vieira </h2>
 
-<h3> Índice </h3>
-* Módulos Utilizados
-* Arquivos Constantes Nesse Repositório
-* Considerações Sobre os Resultados
-
-
 <h3> Módulos Utilizados </h3>
 - polars v0.18.0 <br>
 - pandas v2.0.2 <br>
