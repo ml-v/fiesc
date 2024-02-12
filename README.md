@@ -61,3 +61,4 @@ F1: 0.6271967577920019 <br>
 
 - Para melhorar o desempenho do modelo, primeiro seria necessário entender melhor o que era esperado da coleta de dados e se o tratamento realizado foi coerente (não foram analisados outliers, pois entende-se que a possível existência desses poderia ser esperada); além disso, se fosse decidido continuar com as Random Forests, aumentar o universo de possíveis parâmetros e verificar se é possível melhorar o desempenho do modelo. <br>
 - Caso optasse por substituir as Random Forests por outro modelo, sugeriria utilizar um modelo de rede neural, o que já fiz em pesquisas passadas, mas não o fiz agora em razão do tempo necessário para estruturar o número, tamanho e tipo das camadas <br># fiesc
+# fiesc
