@@ -18,8 +18,9 @@
 
 <h3> Abordagem realizada </h3>
 <h4> Análise exploratória e tratamento dos dados </h4>
-- Utilizou-se uma grande parte do tempo disponível para entender o formato dos dados coletados por cada sensor, quais as característica de cada um dos conjuntos fornecidos e o que poderia ser feito sem saber mais detalhes práticos dos dados. <br>
-- Verificou-se se haviam valores NaN, como eles estavam distribuídos nas matrizes e levantou-se hipóteses para tratá-los <br>
+- Entendeu-se como problema o desenvolvimento de um modelo de classificação para identificar qual o estado de funcionamento da máquina com base nos dados dos sensores embarcado <br>
+- Assim, utilizou-se uma grande parte do tempo disponível para entender o formato dos dados coletados por cada sensor, quais as característica de cada um dos conjuntos fornecidos e o que poderia ser feito sem saber mais detalhes práticos dos dados. <br>
+- Verificou-se a existência valores NaN, como eles estavam distribuídos nas matrizes e levantou-se hipóteses para tratá-los <br>
 
 <h4> Engenharia de Requisitos </h4>
 - Em razão da quantidade de variáveis por conjunto de dados, realizou-se a Análise dos componentes principais, de forma a reduzir o número de variáveis <br>
